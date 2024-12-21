@@ -29,7 +29,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш_логин>/kinopoisk-prototype.git
+   git clone [https://github.com/DaryaVorontsova/My-kinopoisk.git](https://github.com/DaryaVorontsova/My-kinopoisk.git)
 
 2. Установите зависимости:
     ```bash
